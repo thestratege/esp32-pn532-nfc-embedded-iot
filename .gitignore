@@ -1,0 +1,12 @@
+.pio/
+.vscode/
+build/
+cmake-build-*/
+*.bin
+*.elf
+*.map
+*.log
+secrets.h
+config.local.h
+.env
+.DS_Store
